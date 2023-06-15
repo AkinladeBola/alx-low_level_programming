@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - main function 
+ * main - main function
  *
  * Return: Always 1
  */

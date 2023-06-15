@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main -main function of the program
+ * main -main function
  *
- * return: every program shuld always return 0(success)
-*/
+ * Return: every program should return zero errors
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
