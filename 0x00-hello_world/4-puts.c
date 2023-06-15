@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- * main 
- *
- * ALX
- * is 
- * challenging
- * every program shuld always return 0 errors
+ * main
+ *  
+ *  every program shuld always return 0(success)
  */
 
 int main(void)
