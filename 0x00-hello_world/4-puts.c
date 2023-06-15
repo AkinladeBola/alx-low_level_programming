@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -main function of the program
+ * main- main function of the program
  *
  * return: every program shuld always return 0(success)
 */
