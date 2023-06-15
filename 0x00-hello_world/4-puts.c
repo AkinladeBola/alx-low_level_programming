@@ -2,7 +2,7 @@
 
 /**
  * main - main function of the program
- *  
+ *
  * return: every program shuld always return 0(success)
 */
 int main(void)
