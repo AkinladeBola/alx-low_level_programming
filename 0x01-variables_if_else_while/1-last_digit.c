@@ -13,8 +13,8 @@ int main(void)
 	int rem;
 
 	srand(time(0));
-	n = rand() - RAND_MAX / 5;
-	rem = n % 20;
+	n = rand() - RAND_MAX / 2;
+	rem = n % 10;
 
 if (rem > 5)
 {
