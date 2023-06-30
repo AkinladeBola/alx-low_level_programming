@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * cap_string -  capitalize all word of the string
+ * cap_string -  capitalize all word of a string
  * @str: string
  * Return: Always 0
  */
