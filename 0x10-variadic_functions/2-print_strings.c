@@ -8,7 +8,7 @@
  * @n: the number of strings passed to function
  * @...: variable number of stringsto be printed
  *
- * Description: if seperator is NULL, is is not printed
+ * Description: if seperator is NULL, it is not printed
  *		if one of the strings if NULL, (nil) is printed
  */
 void print_strings(const char *seperator, const unsigned int n, ...)
@@ -28,8 +28,8 @@ void print_strings(const char *seperator, const unsigned int n, ...)
 		else
 			printf("%s", str);
 
-		if (index != (n - 1) && separator != NULL)
-			printf("%s", separator);
+		if (index != (n - 1) && seperator != NULL)
+			printf("%s", seperator);
 	}
 
 	printf("\n");
